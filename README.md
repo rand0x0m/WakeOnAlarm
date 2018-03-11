@@ -1,4 +1,4 @@
-# AlarmClock
+# WakeOnAlarm
 
 Simple alarm clock that wakes your pc up using Wake On Lan (WOL). Please consider adding your computer's
 MAC address in the main activity on line 17 (MainActivity.java:17). And your network's broadcast address
