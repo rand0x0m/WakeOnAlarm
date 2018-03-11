@@ -12,8 +12,8 @@ public class RingServiceSingleton {
 
     public RingServiceSingleton(Context context) {
         if (context == null || intent == null) {
-            context = context;
-            intent = new Intent(context, RingService.class); //Explicit intent
+            RingServiceSingleton.context = context;
+            RingServiceSingleton.intent = new Intent(context, RingService.class); //Explicit intent
         }
     }
 
