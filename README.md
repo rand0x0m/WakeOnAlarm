@@ -10,7 +10,7 @@ Feel free to report any issues or any patches for them.
 
 Fix memory leaks with static context fields.
 
-##### Although project's license allows it, I highly not recommend use of this app in production.
+##### Although project's license allows it, I highly not recommend the use of this app in any production environment.
 
 ## LICENSE
 
